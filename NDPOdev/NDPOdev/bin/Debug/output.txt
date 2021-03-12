@@ -1,0 +1,31 @@
+BERKAY SAHIN G191210302 - Student Average: 77.6 - Letter Grade: CB
+ALP KIRSAN G542379512 - Student Average: 6.6 - Letter Grade: FF
+CEM YILMAZ U331247100 - Student Average: 89.9 - Letter Grade: BA
+YUNUS OZYAVUZ U997460185 - Student Average: 42.8 - Letter Grade: FD
+ACUN ILICALI G362475124 - Student Average: 60.9 - Letter Grade: DC
+JAMES HETFIELD G203321578 - Student Average: 62.3 - Letter Grade: DC
+ESER YENENLER U778452462 - Student Average: 63.7 - Letter Grade: DC
+MERTCAN SERT G998745217 - Student Average: 61.6 - Letter Grade: DC
+EFE CAN U110124474 - Student Average: 38 - Letter Grade: FF
+METE KOC U884576696 - Student Average: 99 - Letter Grade: AA
+ARIF CAN U221247741 - Student Average: 74.4 - Letter Grade: CC
+MURAT YILMAZ U234562187 - Student Average: 76.8 - Letter Grade: CB
+EMRE CEPNI U191325421 - Student Average: 64.1 - Letter Grade: DC
+ONUR DOGAN G122457969 - Student Average: 45.4 - Letter Grade: FD
+MERAL BULUT G221548644 - Student Average: 59.8 - Letter Grade: DC
+ECE OZGUN U234562187 - Student Average: 50.7 - Letter Grade: DD
+OZGUR METIN G332128741 - Student Average: 62.9 - Letter Grade: DC
+CAGDAS KOC U177456893 - Student Average: 54.2 - Letter Grade: DD
+SEVGI BOZDAG U122321785 - Student Average: 99 - Letter Grade: AA
+SAMET MERT U255648796 - Student Average: 66.5 - Letter Grade: CC
+
+- LETTER GRADE STATUS OF THE CLASS -
+AA: 2 Person - 10% OF THE CLASS
+BA: 1 Person - 5% OF THE CLASS
+BB: 0 Person - 0% OF THE CLASS
+CB: 2 Person - 10% OF THE CLASS
+CC: 2 Person - 10% OF THE CLASS
+DC: 7 Person - 35% OF THE CLASS
+DD: 2 Person - 10% OF THE CLASS
+FD: 2 Person - 10% OF THE CLASS
+FF: 2 Person - 10% OF THE CLASS

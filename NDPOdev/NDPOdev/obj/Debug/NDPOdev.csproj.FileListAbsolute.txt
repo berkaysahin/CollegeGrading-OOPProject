@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\NDPOdev\NDPOdev\bin\Debug\NDPOdev.exe.config
+C:\Users\Berkay\Desktop\NDPOdev\NDPOdev\bin\Debug\NDPOdev.exe
+C:\Users\Berkay\Desktop\NDPOdev\NDPOdev\bin\Debug\NDPOdev.pdb
+C:\Users\Berkay\Desktop\NDPOdev\NDPOdev\obj\Debug\NDPOdev.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\NDPOdev\NDPOdev\obj\Debug\NDPOdev.exe
+C:\Users\Berkay\Desktop\NDPOdev\NDPOdev\obj\Debug\NDPOdev.pdb
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev1\NDPOdev\NDPOdev\bin\Debug\NDPOdev.exe.config
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev1\NDPOdev\NDPOdev\bin\Debug\NDPOdev.exe
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev1\NDPOdev\NDPOdev\bin\Debug\NDPOdev.pdb
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev1\NDPOdev\NDPOdev\obj\Debug\NDPOdev.csprojAssemblyReference.cache
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev1\NDPOdev\NDPOdev\obj\Debug\NDPOdev.exe
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev1\NDPOdev\NDPOdev\obj\Debug\NDPOdev.pdb
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev1\NDPOdev\NDPOdev\obj\Debug\NDPOdev.csproj.CoreCompileInputs.cache
