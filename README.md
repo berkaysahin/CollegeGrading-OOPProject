@@ -1,8 +1,8 @@
 # 2019
 # Collage Grading App - Object Oriented Programming Project
 
-  To make a system to calculate the grades and letter grades of students in a 
-  university course and write a report as a text file in this assignment.
+  At assignment, to make a system to calculate the grades and letter grades of students in a 
+  university course and write a report as a text file.
 
 ### Used Technologies
   
