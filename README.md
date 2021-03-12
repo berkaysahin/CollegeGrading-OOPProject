@@ -10,9 +10,9 @@
    
 ## Screenshots
 
-![preview](GithubReadmeDocs/preview/preview1.jpg)
-![preview](GithubReadmeDocs/preview/preview2.jpg)
-![preview](GithubReadmeDocs/preview/preview3.jpg)
+![preview](GithubReadmeDocs/preview/preview1.png)
+![preview](GithubReadmeDocs/preview/preview2.png)
+![preview](GithubReadmeDocs/preview/preview3.png)
 
 ## Homework Document
 
