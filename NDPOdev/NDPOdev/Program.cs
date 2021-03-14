@@ -8,7 +8,7 @@
 **				HOMEWORK NUMBER...........: 01
 **				STUDENT NAME..............: BERKAY ŞAHİN
 **				STUDENT NUMBER............: G191210302
-**              COURSE GROUP..............: Second Education C Group
+**              COURSE GROUP..............: 2C Group
 ****************************************************************************/
 
 
